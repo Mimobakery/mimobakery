@@ -14,10 +14,13 @@
 
 ## 🛠 Technical Skills
 <div align="center">
+  
 ![Static Badge](https://img.shields.io/badge/Excel-%231D6F42?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Power_BI-%23f6d958?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Tableau-%235778a4?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Python-%20%20%23646464?style=for-the-badge&logo=python&labelColor=%23FFE873)
 ![Static Badge](https://img.shields.io/badge/SQL-%20%20%23510092?style=for-the-badge)
+
+
 
 </div>
