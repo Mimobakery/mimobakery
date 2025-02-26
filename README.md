@@ -8,9 +8,13 @@ Hi there, I'm Macarena ✨
 
 </h1>
 <div align='center'>
+
 - 🔭 I’m currently working as a BI Analyst
+  
 - 🌱 I’m currently learning Data Sciente
+  
 - 📫 How to reach me: macarena.sanhueza@mail.udp.cl
+  
 - [Linkedin](https://www.linkedin.com/in/macarena-sanhueza/)
 
 ### Technical Skills
