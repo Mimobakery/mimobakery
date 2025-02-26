@@ -5,12 +5,14 @@
 <!--
 **Mimobakery/mimobakery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align='center'>
+
+</h1>
+
 - 🔭 I’m currently working as a BI Analyst
 - 🌱 I’m currently learning Data Sciente
 - 📫 How to reach me: macarena.sanhueza@mail.udp.cl
 - [Linkedin](https://www.linkedin.com/in/macarena-sanhueza/)
-
+<h2 align='center'>
 ### Technical Skills
 
 ![Static Badge](https://img.shields.io/badge/Excel-%231D6F42?style=for-the-badge)
